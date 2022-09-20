@@ -9,8 +9,6 @@ Membros: <br>
 <br>
 <a href="https://github.com/vitormartinsxd"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Vitor Martins</button></a>
 <br>
-<a href="https://github.com/gabrxgomes"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Gabriel Gomes</button></a>
-<br>
 <a href="https://github.com/vhpcastro"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Victor Hugo</button></a>
 <br>
 <a href="https://github.com/melissaJll"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Melissa Julia</button></a>
